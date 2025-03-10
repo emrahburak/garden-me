@@ -1,16 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/published/garden/005-aktif-notlar/","created":"2025-03-10T18:07:40.406+03:00","updated":"2025-03-10T18:27:23.441+03:00"}
+{"dg-publish":true,"permalink":"/published/garden/005-aktif-notlar/","title":"005 Aktif Notlar","created":"2025-03-10T18:55:59.338+03:00","updated":"2025-03-10T18:57:28.646+03:00"}
 ---
 
 
----
-updated: 2025-03-10 18:27
-title: "005 Aktif Notlar"
-draft: false
-tags:
-  - 
-  --- 
+# 005 Aktif Notlar
 
-  Aktif notlar burası 
+## Notes
+- Notlar
 
-The rest of your content lives here. You can use **Markdown** here :)
+## Tags
+- #active 
+
+## Updated
+- Son güncelleme tarihi: 2025-03-10
