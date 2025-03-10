@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/published/garden/000-home/","title":"Home","tags":["digital-garden","gardenEntry"],"created":"2025-03-10T16:09:07.768+03:00","updated":"2025-03-10T18:28:09.152+03:00"}
+{"dg-publish":true,"permalink":"/published/garden/000-home/","title":"Home","tags":["digital-garden","gardenEntry"],"created":"2025-03-10T16:09:07.768+03:00","updated":"2025-03-10T18:28:40.004+03:00"}
 ---
 
 
@@ -9,4 +9,3 @@
  
  This is may Home page !!! 
  Here we go again
-[[Merhabaj\|Merhabaj]]
