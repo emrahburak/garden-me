@@ -5,8 +5,8 @@
 
 # 110 Tohum Projeler
 100s - [[Dijital Bahçe/030 Ağaç/300 Kategoriler\|Tohum Kategoriler]]
-- [[Dijital Bahçe/Projeler/Rpi-Telsiz\|Rpi-Telsiz]]
-- [[Dijital Bahçe/Projeler/Speech-to-Text\|Speech-to-Text]]
+- [[Dijital Bahçe/Projeler/Rpi-Telsiz/Rpi-Telsiz\|Rpi-Telsiz]]
+- [[Dijital Bahçe/Projeler/Speech-to-Text/Speech-to-Text\|Speech-to-Text]]
 
 
 

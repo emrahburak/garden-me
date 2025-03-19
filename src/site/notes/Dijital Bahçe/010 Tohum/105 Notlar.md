@@ -6,7 +6,7 @@
 # Notlar
 Buradaki fikirler sadece ortaya atılmış ve aklımda dolaşan bazı merakların sonucudur. Her fikirin belli bir aşamaya geçemsine gerek yok. Yinede yazılı kalması, aklımda durmasından daha doğru.. 
 
-- Rpi: 4b ile telsiz iletişiminde bulunmak.. [[Dijital Bahçe/Projeler/Rpi-Telsiz\|Rpi-Telsiz]]
+- Rpi: 4b ile telsiz iletişiminde bulunmak.. [[Dijital Bahçe/Projeler/Rpi-Telsiz/Rpi-Telsiz\|Rpi-Telsiz]]
 
 
 ---
