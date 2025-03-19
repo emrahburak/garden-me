@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dijital-bahce/020-fidan/200-kategoriler/","title":"Kategoriler","tags":["fidan"],"noteIcon":"","created":"2025-03-11T14:32:37.819+03:00","updated":"2025-03-11T15:53:15.395+03:00"}
+{"dg-publish":true,"permalink":"/dijital-bahce/020-fidan/200-kategoriler/","title":"Fidan Aşaması","tags":["fidan"],"noteIcon":"","created":"2025-03-19T20:58:45.567+03:00","updated":"2025-03-19T21:01:08.452+03:00"}
 ---
 
 

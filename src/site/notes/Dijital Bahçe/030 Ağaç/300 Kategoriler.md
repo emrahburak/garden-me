@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dijital-bahce/030-agac/300-kategoriler/","title":"Kategoriler","tags":["açıklama","ağaç"],"noteIcon":"","created":"2025-03-11T14:35:44.180+03:00","updated":"2025-03-11T15:53:15.397+03:00"}
+{"dg-publish":true,"permalink":"/dijital-bahce/030-agac/300-kategoriler/","title":"Ağaç aşaması","tags":["açıklama","ağaç"],"noteIcon":"","created":"2025-03-19T20:58:45.567+03:00","updated":"2025-03-19T21:01:20.809+03:00"}
 ---
 
 

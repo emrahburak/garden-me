@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/dijital-bahce/010-tohum/105-notlar/","title":"Notlar","tags":["tohum","notlar"],"noteIcon":"","created":"2025-03-11T14:22:11.548+03:00","updated":"2025-03-11T14:28:19.588+03:00"}
+{"dg-publish":true,"permalink":"/dijital-bahce/010-tohum/105-notlar/","title":"Notlar","tags":["tohum","notlar"],"noteIcon":"","created":"2025-03-19T20:58:45.566+03:00","updated":"2025-03-19T20:58:45.566+03:00"}
 ---
 
 
 # Notlar
+Buradaki fikirler sadece ortaya atılmış ve aklımda dolaşan bazı merakların sonucudur. Her fikirin belli bir aşamaya geçemsine gerek yok. Yinede yazılı kalması, aklımda durmasından daha doğru.. 
 
+- Rpi: 4b ile telsiz iletişiminde bulunmak.. [[Dijital Bahçe/010 Tohum/Rpi-Telsiz\|Rpi-Telsiz]]
 
 
 ---

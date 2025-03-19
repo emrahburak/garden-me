@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dijital-bahce/000-giris/dijital-bahce/","title":"Dijital Bahçe","tags":["gardenEntry"],"noteIcon":"","created":"2025-03-11T14:52:16.053+03:00","updated":"2025-03-11T15:53:31.391+03:00"}
+{"dg-publish":true,"permalink":"/dijital-bahce/000-giris/dijital-bahce/","title":"Dijital Bahçe","tags":["gardenEntry"],"noteIcon":"","created":"2025-03-19T20:58:45.568+03:00","updated":"2025-03-19T20:58:45.568+03:00"}
 ---
 
 
