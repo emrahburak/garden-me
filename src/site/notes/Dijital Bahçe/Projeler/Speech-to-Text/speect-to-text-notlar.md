@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dijital-bahce/projeler/speech-to-text/speect-to-text-notlar/","title":"Aktif Notlar","tags":["notlar","tohum"],"noteIcon":"","created":"2025-03-19T23:46:19.899+03:00","updated":"2025-03-20T14:38:08.545+03:00"}
+{"dg-publish":true,"permalink":"/dijital-bahce/projeler/speech-to-text/speect-to-text-notlar/","title":"Aktif Notlar","tags":["notlar","tohum"],"noteIcon":"","created":"2025-03-19T23:46:19.899+03:00","updated":"2025-03-21T12:54:54.255+03:00"}
 ---
 
 
@@ -44,9 +44,14 @@ Bu noktadan sonra bir iş serüvenim oldu, Yaklaşık 1 yıl hiçbir şekilde il
 
 **2024/2025** 
 #### Yeniden hedefleme
+"Yarım kalan işlere dönüş"..
 
-...
+[Whisper](https://openai.com/index/whisper/) kütüphanesiniden haberdar olduktan sonra durumu tekrar ele almaya karar verdim.
 
+
+<div class="card">
+	Bu işlem yükünü kendi üzerimden çıkarıp, elimden geldiğince dağıtık bir yapı kurmaya çalıştım. 
+</div>
 ---
 
 
