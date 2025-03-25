@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/dijital-bahce/projeler/sekiro/b-motivasyon/","title":"Sekiro Motivasyon","tags":["motivasyon","tohum","sekiro"],"noteIcon":"","created":"2025-03-25T13:24:13.417+03:00","updated":"2025-03-25T13:46:12.139+03:00"}
+{"dg-publish":true,"permalink":"/dijital-bahce/projeler/sekiro/b-motivasyon/","title":"Sekiro Motivasyon","tags":["motivasyon","tohum","sekiro"],"noteIcon":"","created":"2025-03-25T13:24:13.417+03:00","updated":"2025-03-25T13:55:59.824+03:00"}
 ---
 
 
 # Sekiro Motivasyon
 
 [[Dijital Bahçe/Projeler/Sekiro/a-Index\|Proje Index]]
+
+![Sekiro](https://upload.wikimedia.org/wikipedia/tr/6/6e/Sekiro_art.jpg)
 
 ### 1. Giriş ve Genel Bakış
 
