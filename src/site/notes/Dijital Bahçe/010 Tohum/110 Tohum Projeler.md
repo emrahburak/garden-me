@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dijital-bahce/010-tohum/110-tohum-projeler/","title":"Tohum Proje Listesi","tags":["tohum","projeler"],"noteIcon":"","created":"2025-03-19T20:58:45.566+03:00","updated":"2025-03-22T15:33:25.489+03:00"}
+{"dg-publish":true,"permalink":"/dijital-bahce/010-tohum/110-tohum-projeler/","title":"Tohum Proje Listesi","tags":["tohum","projeler"],"noteIcon":"","created":"2025-03-19T20:58:45.566+03:00","updated":"2025-03-25T13:43:47.618+03:00"}
 ---
 
 
@@ -8,6 +8,7 @@
 - [[Dijital Bahçe/Projeler/Rpi-Telsiz/a-Index\|Rpi-Telsiz]]
 - [[Dijital Bahçe/Projeler/Speech-to-Text/a-Index\|Speech to Text]]
 - [[Dijital Bahçe/Projeler/Portfolyo/a-Index\|Portfolyo]]
+- [[Dijital Bahçe/Projeler/Sekiro/a-Index\|Sekiro]]
 
 
 
